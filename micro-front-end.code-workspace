@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "base_app"
+		},
+		{
+			"path": "dependences"
+		},
+		{
+			"path": "micro_core"
+		},
+		{
+			"path": "micro_dependences"
+		},
+		{
+			"path": "apps"
+		}
+	]
+}
